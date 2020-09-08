@@ -21,5 +21,11 @@ localhost:9000/api/values/:valor
 
 localhost:9000/api/date/:value/:date
 
+## Front
+
+El Fronted es el proyecto [Bice Front](https://github.com/fjabalquinto/bice-front).
+
+EL cual se levanta en `http://localhost:4200/#/indicators`
+
 ## Licencia
 [MIT](https://choosealicense.com/licenses/mit/)
